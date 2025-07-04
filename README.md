@@ -1,8 +1,4 @@
-# 🛒 Shopify React + Node App
-A public Shopify app with OAuth, built using React + Express. After install, the app redirects to a hosted platform showing all published products (with images and variant prices) using the GraphQL Admin API. Supports inline editing, pagination, and secure token storage.
-
-
-# Shopify React + Node/Express App
+# 🛒 Shopify React + Node/Express App
 
 This project is a full-stack Shopify app with a React frontend and Node/Express backend. It authenticates via OAuth, fetches and displays all published products (with images, title, and all variant prices), supports pagination, and allows editing product titles and all variant prices directly from the frontend. The backend uses the Shopify GraphQL Admin API (2025-04) and persists access tokens securely.
 
